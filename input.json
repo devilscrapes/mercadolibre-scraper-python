@@ -1,0 +1,13 @@
+{
+  "query": "laptop",
+  "tld": "mx",
+  "countryCode": "MX",
+  "maxItems": 10,
+  "maxPages": 1,
+  "proxyConfiguration": {
+    "useApifyProxy": true,
+    "apifyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}
